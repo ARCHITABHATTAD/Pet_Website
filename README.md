@@ -11,6 +11,7 @@ swoc accepted
 ![Screenshot 2023-01-20 213900](https://user-images.githubusercontent.com/87604491/213978132-a1276671-5128-46a6-b6df-8f473e4c8212.jpg)
 
 ---
+---
 # Algorithms
 swoc accepted
 ![Screenshot 2023-01-03 104238](https://user-images.githubusercontent.com/87604491/213980452-b7036ec3-4349-46ec-bc70-bc63ea24f23e.jpg)
