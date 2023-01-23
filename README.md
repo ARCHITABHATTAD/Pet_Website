@@ -9,3 +9,9 @@ swoc accepted
 ![Screenshot 2023-01-20 214223](https://user-images.githubusercontent.com/87604491/213978155-a1136fd7-f35d-4491-b804-aa4f7b98b66b.jpg)
 ![Screenshot 2023-01-20 214245](https://user-images.githubusercontent.com/87604491/213978157-272e1b38-db92-41a8-ab4b-c1a2f447b00a.jpg)
 ![Screenshot 2023-01-20 213900](https://user-images.githubusercontent.com/87604491/213978132-a1276671-5128-46a6-b6df-8f473e4c8212.jpg)
+
+---
+# Algorithms
+swoc accepted
+![Screenshot 2023-01-03 104238](https://user-images.githubusercontent.com/87604491/213980452-b7036ec3-4349-46ec-bc70-bc63ea24f23e.jpg)
+
